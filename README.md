@@ -6,7 +6,7 @@ Uber Analytics data using Microsoft Fabric for the whole project.
 Clone the repository:
 
 ```
-https://github.com/thanhphat2609/Sales_Food_Analysis.git
+https://github.com/thanhphat2609/Uber_Analytics.git
 cd source
 ```
 
