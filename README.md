@@ -23,6 +23,7 @@ cd source
 ![Data_Mode_BI](https://github.com/thanhphat2609/Uber_Analytics/assets/84914537/17bda52d-5a2e-4ff3-a0ca-e86d6ae5b9c3)
 
 ## Uber Analytics Report
+![Report](https://github.com/thanhphat2609/Uber_Analytics/assets/84914537/df0e9acb-72f5-4bc3-ba29-3c921b7461e6)
 
 ## File Structure
 
