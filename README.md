@@ -14,13 +14,13 @@ cd source
 ![Fabric_Architect](https://github.com/thanhphat2609/Uber_Analytics/assets/84914537/cd4dc825-04c4-4152-a630-8688cb3ed6ac)
 
 ## Data Model (Star Schema)
-![Data_Model](https://github.com/thanhphat2609/SalesManagement/assets/84914537/2f597b9d-d28b-4b8c-a3a7-0e8ec2abe206)
+![DataModel](https://github.com/thanhphat2609/Uber_Analytics/assets/84914537/6045cef5-c186-4c88-824e-1f0f2a4b4f7a)
 
 ## Data Warehouse in LakeHouse
-![Data_Warehouse](https://github.com/thanhphat2609/SalesManagement/assets/84914537/fea35181-2c1c-41ae-9a6a-a8907724378e)
+![Data_Warehouse](https://github.com/thanhphat2609/Uber_Analytics/assets/84914537/41624e2f-92e2-4ce2-bc85-231a99e71af1)
 
 ## Data Model in Power BI
-![Data_Mode_BI](https://github.com/thanhphat2609/SalesManagement/assets/84914537/385dbd78-937c-4ffa-9560-d5d9664dec38)
+![Data_Mode_BI](https://github.com/thanhphat2609/Uber_Analytics/assets/84914537/17bda52d-5a2e-4ff3-a0ca-e86d6ae5b9c3)
 
 ## Uber Analytics Report
 
