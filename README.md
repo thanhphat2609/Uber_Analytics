@@ -16,6 +16,12 @@ cd source
 ## Data Model (Star Schema)
 ![Data_Model](https://github.com/thanhphat2609/SalesManagement/assets/84914537/2f597b9d-d28b-4b8c-a3a7-0e8ec2abe206)
 
+# Data Warehouse in LakeHouse
+![Data_Model](https://github.com/thanhphat2609/SalesManagement/assets/84914537/fea35181-2c1c-41ae-9a6a-a8907724378e)
+
+# Data Model in Power BI
+
+
 ## Uber Analytics Report
 
 ## File Structure
