@@ -11,7 +11,7 @@ cd source
 ```
 
 ## Architecture
-![Fabric_Architect](https://github.com/thanhphat2609/Uber_Analytics/assets/84914537/cd4dc825-04c4-4152-a630-8688cb3ed6ac)
+![Fabric_Architect](https://github.com/thanhphat2609/Uber_Analytics/assets/84914537/af1f1c7e-cc73-40bf-b4de-baedc16365b4)
 
 ## Data Model (Star Schema)
 ![DataModel](https://github.com/thanhphat2609/Uber_Analytics/assets/84914537/6045cef5-c186-4c88-824e-1f0f2a4b4f7a)
